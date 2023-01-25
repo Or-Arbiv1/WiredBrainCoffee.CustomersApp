@@ -13,25 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WiredBrainCoffee.CustomersApp
+namespace WiredBrainCoffee.CustomersApp.Controls
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for HeaderControl.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class HeaderControl : UserControl
     {
-        public MainWindow()
+        public HeaderControl()
         {
             InitializeComponent();
         }
-
-     
-
-        //private void ButtonAddCustemor_Click(object sender, RoutedEventArgs e)
-        //{
-        //    btnAddCustemor.Content = "Customer added!";
-        //}
-
-
     }
 }
