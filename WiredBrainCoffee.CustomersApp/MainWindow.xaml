@@ -43,7 +43,7 @@
         <controls:HeaderControl Grid.Row="1" />
 
         <!--Customer view-->
-        <view:CustomerView Grid.Row="2"/>
+        <view:CustomersView Grid.Row="2"/>
 
         <!--Statusbar-->
         <StatusBar Grid.Row="3" >

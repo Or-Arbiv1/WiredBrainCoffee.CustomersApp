@@ -25,7 +25,7 @@ namespace WiredBrainCoffee.CustomersApp
             InitializeComponent();
         }
 
-     
+
 
         //private void ButtonAddCustemor_Click(object sender, RoutedEventArgs e)
         //{
